@@ -2,10 +2,9 @@
 Ramla</a></h1>
 <h3 align="center">An aspiring Web developer from Tunisia </h3>
 
-
+<br/>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src=
->
+  <img align="right"  height="400" width="400" alt="GIF" src=avatar.png>
 </a>
 
 - 🔭 I’m currently Looking for end of studies internship</a>
@@ -17,7 +16,7 @@ Ramla</a></h1>
 - 📫 How to reach me **ramlaazouni@outlook.com**
 
 - 📄 Check My Portfolio <a href="https://ramla-azouni-portfolio.vercel.app/" target="blank">Resume</a>
-<br/>
+<br/><br/> <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
