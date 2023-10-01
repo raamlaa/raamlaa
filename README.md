@@ -4,12 +4,12 @@
 
 <br/>
 <a target="_blank" align="center">
-  <img align="right"  height="400" width="400" alt="GIF" src=avatar.png>
+  <img align="right"  height="400" width="400" alt="GIF" src=moto.png>
 </a>
 
 - 🔭 I’m currently <b> Looking for end-of-studies internship </b></a>
 
-- 🌱 I’m currently learning NextJs && APIs
+- 🌱 I’m currently learning NextJs & APIs
 
 - 💬 Ask me about **Web Dev & Problem-Solving**
 
