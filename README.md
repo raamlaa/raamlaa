@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://ramla-azouni-portfolio.vercel.app/" target="blank">
-Ramla</a></h1>
+<i>Ramla</i></a></h1>
 <h3 align="center">An aspiring Web developer from Tunisia </h3>
 
 <br/>
