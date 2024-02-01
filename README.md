@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently <b> a Software Developer Intern @ CodeCooperation </b></a>
 
-- 🌱 I’m currently learning NextJs & APIs
+- 🌱 I’m currently learning NextJs & NestJs
 
-- 💬 Ask me about **Web Dev & Problem-Solving**
+- 💬 Ask me about **Software Dev & Problem-Solving**
 
 - 📫 How to reach me **ramlaazouni@outlook.com**
 
