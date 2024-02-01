@@ -7,7 +7,7 @@
   <img align="right"  height="400" width="400" alt="GIF" src=moto.png>
 </a>
 
-- 🔭 I’m currently <b> Looking for end-of-studies internship </b></a>
+- 🔭 I’m currently <b> a Software Developer Intern @ CodeCooperation </b></a>
 
 - 🌱 I’m currently learning NextJs & APIs
 
